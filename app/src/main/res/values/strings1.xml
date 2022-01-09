@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+
+    <string-array name="TermsInYear">
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array>
+
+
+
+    <string name="calculate">Calculate</string>
+    <string name="principle_in_dollars">Principle (in dollars):</string>
+    <string name="interest_as_an_annual_percent">interest as an annual_percent</string>
+    <string name="amortization_in_years">amortization in years</string>
+    <string name="monthly_payment">monthly payment</string>
+    <string name="result_final"></string>
+
+</resources>
